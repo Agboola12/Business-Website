@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer components{
+    .cst-btn{
+        @apply transition hover:border-dashed bg-primary text-white px-3 rounded-lg hover:bg-white hover:text-primary border-2 border-primary h-12
+    }
+}
