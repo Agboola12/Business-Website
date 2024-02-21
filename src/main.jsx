@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import './index.css'
-import 'flowbite/dist/flowbite.css';
+// import 'flowbite/dist/flowbite.css';
 import Routing from './Routing.jsx'
 import { BrowserRouter } from 'react-router-dom'
 
