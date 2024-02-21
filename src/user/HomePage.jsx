@@ -26,12 +26,16 @@ const HomePage = () => {
               </div>
               </div>
             </section> */}
-<section className="h-[500px]  w-[100%] aspect-auto object-cover" id={style.section} >
-  <div className='text-center text-white mt-[10em]'>
-  <h3 className="text-3xl md:text-4xl lg:text-5xl font-semibold mb-6">Experience the future today.</h3>
-              <p className="text-lg md:text-xl mb-8">Explore our range of phones and laptops crafted to inspire and delight.</p>
-  </div>
-</section>
+      <section className="h-[500px]  w-[100%] aspect-auto object-cover" id={style.section} >
+        <div className='text-center text-white mt-[10em]'>
+          <h3 className="text-3xl md:text-4xl lg:text-5xl font-semibold mb-6">Experience the future today.</h3>
+          <p className="text-lg md:text-xl mb-8">Explore our range of phones and laptops crafted to inspire and delight.</p>
+        </div>
+      </section>
+
+      <div>
+        
+      </div>
 
 
     </div>
