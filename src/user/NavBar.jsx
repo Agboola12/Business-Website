@@ -12,9 +12,9 @@ const NavBar = () => {
   <div>
     <nav className="bg-white  shadow-lg">
       <div className="lg:w-[90%] md:w-[90%] w-full mx-auto flex justify-center">
-        <div className="flex items-center justify-between h-fit py-2 container border border-red-900">
+        <div className="flex items-center justify-between h-fit py-2 container">
           <div className="flex-shrink-0">
-            <img src={logo} alt='sjd' className='rounded-full w-[90px] border border-slate-500' />
+            <img src={logo} alt='sjd' className='rounded-full w-[90px] border border-slate-900' />
           </div>
           <div className="hidden md:flex"> 
             <div className="ml-10 flex items-baseline space-x-4">
